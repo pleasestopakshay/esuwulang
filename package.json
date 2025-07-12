@@ -8,7 +8,7 @@
     "test": "node test-uwu.js"
   },
   "keywords": ["esolang", "esoteric", "programming", "language", "uwu", "kawaii", "cute"],
-  "author": "UwU Lang Creator",
+  "author": "UwU",
   "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security"
