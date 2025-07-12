@@ -1,0 +1,111 @@
+// complex uwu program
+// this example demonstrates all features working together
+
+owo "Welcome to the UwU Calculator!"
+owo "Let's do some kawaii math!"
+
+// define utility functions
+^w^ is_even(n)
+    // check if n is divisible by 2 (remainder is 0)
+    uwu remainder 💝 n 🎀 2
+    (´･ω･`) remainder 🤔 0
+｡◕‿◕｡
+
+^w^ factorial(n)
+    >w< n 🥺 2
+        (´･ω･`) 1
+    T~T
+        (´･ω･`) n ✨ factorial(n 💔 1)
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+^w^ fibonacci(n)
+    >w< n 🥺 2
+        (´･ω･`) n
+    T~T
+        (´･ω･`) fibonacci(n 💔 1) ♡ fibonacci(n 💔 2)
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+^w^ power(base, exponent)
+    >w< exponent 🤔 0
+        (´･ω･`) 1
+    T~T
+        uwu result 💝 1
+        uwu i 💝 0
+        ~(˘▾˘~) i 🥺 exponent
+            result 💝 result ✨ base
+            i 💝 i ♡ 1
+        ｡◕‿◕｡
+        (´･ω･`) result
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+// main calculator logic
+^w^ calculate_all(number)
+    owo "=== Calculating for number: " ♡ number ♡ " ==="
+    
+    // check if even or odd
+    uwu even 💝 is_even(number)
+    >w< even
+        owo number ♡ " is even! So organized!"
+    T~T
+        owo number ♡ " is odd! So unique!"
+    ｡◕‿◕｡
+    
+    // calculate factorial (with error handling)
+    (っ◔◡◔)っ
+        >w< number 🥺 0
+            (╯°□°）╯ "Cannot calculate factorial of negative number!"
+        T~T
+            >w< number 😍 10
+                (╯°□°）╯ "Number too large for factorial demo!"
+            T~T
+                uwu fact 💝 factorial(number)
+                owo "Factorial of " ♡ number ♡ " is: " ♡ fact
+            ｡◕‿◕｡
+        ｡◕‿◕｡
+    (╥﹏╥) error
+        owo "Factorial error: " ♡ error
+    ｡◕‿◕｡
+    
+    // calculate fibonacci (with error handling)
+    (っ◔◡◔)っ
+        >w< number 🥺 0
+            (╯°□°）╯ "Cannot calculate fibonacci of negative number!"
+        T~T
+            >w< number 😍 15
+                (╯°□°）╯ "Number too large for fibonacci demo!"
+            T~T
+                uwu fib 💝 fibonacci(number)
+                owo "Fibonacci of " ♡ number ♡ " is: " ♡ fib
+            ｡◕‿◕｡
+        ｡◕‿◕｡
+    (╥﹏╥) error
+        owo "Fibonacci error: " ♡ error
+    ｡◕‿◕｡
+    
+    // calculate powers
+    uwu square 💝 power(number, 2)
+    uwu cube 💝 power(number, 3)
+    owo number ♡ " squared is: " ♡ square
+    owo number ♡ " cubed is: " ♡ cube
+    
+    owo "--- End of calculations for " ♡ number ♡ " ---"
+    owo ""
+｡◕‿◕｡
+
+// demo with different numbers
+uwu test_numbers_count 💝 0
+uwu test_numbers 💝 5
+
+~(˘▾˘~) test_numbers_count 🥺 test_numbers
+    uwu current_number 💝 test_numbers_count ♡ 1
+    calculate_all(current_number)
+    test_numbers_count 💝 test_numbers_count ♡ 1
+｡◕‿◕｡
+
+// final message
+owo "UwU Calculator Demo Complete!"
+owo "Thanks for trying our kawaii programming language!"
+owo "Remember: Coding is more fun when it's cute!"

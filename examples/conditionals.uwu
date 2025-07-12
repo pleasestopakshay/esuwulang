@@ -1,0 +1,56 @@
+// conditionals in uwu
+// this example demonstrates if-else statements
+
+uwu age 💝 18
+uwu score 💝 85
+uwu temperature 💝 25
+
+// simple if-else
+owo "=== Age Check ==="
+>w< age 😍 17
+    owo "You're an adult! You can vote!"
+T~T
+    owo "You're still young! Enjoy your youth!"
+｡◕‿◕｡
+
+// nested if-else for grades
+owo "=== Grade Check ==="
+>w< score 😍 90
+    owo "Excellent! You're amazing!"
+T~T
+    >w< score 😍 80
+        owo "Great job! You're doing well!"
+    T~T
+        >w< score 😍 70
+            owo "Good work! Keep improving!"
+        T~T
+            >w< score 😍 60
+                owo "You passed! But try harder next time!"
+            T~T
+                owo "Oh no! You need to study more!"
+            ｡◕‿◕｡
+        ｡◕‿◕｡
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+// Temperature check
+owo "=== Weather Check ==="
+>w< temperature 😍 30
+    owo "It's hot! Time for ice cream! 🍦"
+T~T
+    >w< temperature 😍 15
+        owo "Nice weather! Perfect for a walk! 🌸"
+    T~T
+        owo "It's cold! Stay warm! ❄️"
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+// Comparison operations
+uwu x 💝 10
+uwu y 💝 10
+uwu z 💝 5
+
+owo "=== Comparison Tests ==="
+owo "x equals y: " ♡ (x 🤔 y)
+owo "x greater than z: " ♡ (x 😍 z)
+owo "z less than x: " ♡ (z 🥺 x)

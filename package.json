@@ -1,0 +1,16 @@
+{
+  "name": "uwu-esolang",
+  "version": "1.0.0",
+  "description": "A kawaii esoteric programming language using cute expressions",
+  "main": "uwu-interpreter.js",
+  "scripts": {
+    "start": "node uwu-interpreter.js",
+    "test": "node test-uwu.js"
+  },
+  "keywords": ["esolang", "esoteric", "programming", "language", "uwu", "kawaii", "cute"],
+  "author": "UwU Lang Creator",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

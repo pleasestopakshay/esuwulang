@@ -1,0 +1,71 @@
+// error handling in uwu
+// this example demonstrates try-catch blocks and error throwing
+
+owo "=== Error Handling Demo ==="
+
+// example 1: division by zero
+owo "--- Division by Zero Test ---"
+(っ◔◡◔)っ
+    owo "Attempting to divide by zero..."
+    uwu result 💝 10 🌟 0
+    owo "This line won't be reached!"
+(╥﹏╥) error
+    owo "Oops! We caught an error: " ♡ error
+    owo "But we handled it gracefully!"
+｡◕‿◕｡
+
+// example 2: custom error throwing
+owo "--- Custom Error Test ---"
+^w^ check_age(age)
+    >w< age 🥺 0
+        (╯°□°）╯ "Age cannot be negative! That's not kawaii!"
+    T~T
+        >w< age 😍 150
+            (╯°□°）╯ "Age cannot be over 150! That's impossible!"
+        T~T
+            owo "Age " ♡ age ♡ " is valid!"
+        ｡◕‿◕｡
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+// Test valid age
+(っ◔◡◔)っ
+    check_age(25)
+(╥﹏╥) error
+    owo "Error: " ♡ error
+｡◕‿◕｡
+
+// Test invalid age
+(っ◔◡◔)っ
+    check_age(-5)
+(╥﹏╥) error
+    owo "Caught error: " ♡ error
+｡◕‿◕｡
+
+// Test another invalid age
+(っ◔◡◔)っ
+    check_age(200)
+(╥﹏╥) error
+    owo "Caught error: " ♡ error
+｡◕‿◕｡
+
+// Example 3: Multiple operations with error handling
+owo "--- Multiple Operations Test ---"
+^w^ safe_divide(a, b)
+    (っ◔◡◔)っ
+        uwu result 💝 a 🌟 b
+        owo "Safe division: " ♡ a ♡ " / " ♡ b ♡ " = " ♡ result
+        (´･ω･`) result
+    (╥﹏╥) error
+        owo "Division failed: " ♡ error
+        (´･ω･`) 0
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+uwu result1 💝 safe_divide(20, 4)
+owo "Result 1: " ♡ result1
+
+uwu result2 💝 safe_divide(15, 0)
+owo "Result 2: " ♡ result2
+
+owo "Program continues normally after error handling! 🎉"

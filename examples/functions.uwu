@@ -1,0 +1,43 @@
+// functions in uwu
+// this example demonstrates function definition and calls
+
+// define a simple function that doubles a number
+^w^ double(x)
+    (´･ω･`) x ✨ 2
+｡◕‿◕｡
+
+// define a function that adds two numbers
+^w^ add_kawaii(a, b)
+    uwu result 💝 a ♡ b
+    owo "Adding " ♡ a ♡ " and " ♡ b ♡ " gives us " ♡ result
+    (´･ω･`) result
+｡◕‿◕｡
+
+// define a greeting function
+^w^ greet(name)
+    uwu message 💝 "Hello, " ♡ name ♡ "! Welcome to UwU land!"
+    owo message
+    (´･ω･`) message
+｡◕‿◕｡
+
+// call our functions
+uwu doubled 💝 double(21)
+owo "Double of 21 is: " ♡ doubled
+
+uwu sum 💝 add_kawaii(15, 27)
+owo "Sum stored in variable: " ♡ sum
+
+uwu greeting 💝 greet("UwU Developer")
+owo "Greeting returned: " ♡ greeting
+
+// A recursive function - factorial
+^w^ factorial(n)
+    >w< n 🥺 2
+        (´･ω･`) 1
+    T~T
+        (´･ω･`) n ✨ factorial(n 💔 1)
+    ｡◕‿◕｡
+｡◕‿◕｡
+
+uwu fact5 💝 factorial(5)
+owo "Factorial of 5 is: " ♡ fact5

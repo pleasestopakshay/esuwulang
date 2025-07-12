@@ -1,0 +1,41 @@
+// loops in uwu
+// this example demonstrates while loops
+
+owo "=== Counting Numbers ==="
+uwu i 💝 1
+~(˘▾˘~) i 🥺 6
+    owo "Count: " ♡ i ♡ " - So kawaii!"
+    i 💝 i ♡ 1
+｡◕‿◕｡
+
+owo "=== Countdown ==="
+uwu countdown 💝 5
+~(˘▾˘~) countdown 😍 0
+    owo "Countdown: " ♡ countdown
+    countdown 💝 countdown 💔 1
+｡◕‿◕｡
+owo "Blast off!"
+
+owo "=== Multiplication Table ==="
+uwu num 💝 7
+uwu multiplier 💝 1
+~(˘▾˘~) multiplier 🥺 11
+    uwu result 💝 num ✨ multiplier
+    owo num ♡ " x " ♡ multiplier ♡ " = " ♡ result
+    multiplier 💝 multiplier ♡ 1
+｡◕‿◕｡
+
+owo "=== Fibonacci Sequence ==="
+uwu a 💝 0
+uwu b 💝 1
+uwu count 💝 0
+owo "Fibonacci sequence:"
+owo a
+owo b
+~(˘▾˘~) count 🥺 8
+    uwu next 💝 a ♡ b
+    owo next
+    a 💝 b
+    b 💝 next
+    count 💝 count ♡ 1
+｡◕‿◕｡

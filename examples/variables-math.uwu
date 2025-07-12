@@ -1,0 +1,24 @@
+// variables and basic math in uwu
+// this example demonstrates variable declaration and arithmetic operations
+
+// declare some kawaii variables
+uwu kawaii_number 💝 42
+uwu another_number 💝 13
+uwu my_name 💝 "UwU Chan"
+
+// show our variables
+owo "My kawaii number is: " ♡ kawaii_number
+owo "Another number is: " ♡ another_number
+owo "My name is: " ♡ my_name
+
+// do some math operations
+uwu sum 💝 kawaii_number ♡ another_number
+uwu difference 💝 kawaii_number 💔 another_number
+uwu product 💝 kawaii_number ✨ another_number
+uwu quotient 💝 kawaii_number 🌟 another_number
+
+// show the results
+owo "Sum: " ♡ kawaii_number ♡ " + " ♡ another_number ♡ " = " ♡ sum
+owo "Difference: " ♡ kawaii_number ♡ " - " ♡ another_number ♡ " = " ♡ difference
+owo "Product: " ♡ kawaii_number ♡ " * " ♡ another_number ♡ " = " ♡ product
+owo "Quotient: " ♡ kawaii_number ♡ " / " ♡ another_number ♡ " = " ♡ quotient
